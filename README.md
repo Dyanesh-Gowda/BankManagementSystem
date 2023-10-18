@@ -1,2 +1,2 @@
 # BankManagementSystem
-The project involves the Account Creation and working on ATM(Automated Teller Machine) ,where it includes the ATM  machine performances such as Deposit,Withdrawl,Balance Enquiry and etc...
+In this project ,I have worked on a Database Management System for ATM where they can manage their Account Creation,Deposit,Withdraw,Bank Balance etc..by Using JFraame.I used MYSQL Database and also performed CRUD Operation.
